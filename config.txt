@@ -3,7 +3,7 @@
 # 公众号appId
 "app_id": "wx5a7dbb0208b66437",
 # 公众号appSecret
-"app_secret": "0962c93ff2f1de54cc5dc30e58c0d149",
+"app_secret": "4602f93bbd29014af11c32467834e358",
 # 模板消息id
 "template_id": "V1hgZKZYLl5vDDovxHZ2cPUUcduMYg6hFM-y3LzHMn0",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
@@ -16,11 +16,11 @@
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "鞍山",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "", "birthday": ""},
+"birthday1": {"name": "房芳芳", "birthday": "2004-10-20"},
 # 生日2
 "birthday2": {"name": "郝泓吉", "birthday": "2004-07-21"},
 # 在一起的日子，格式同上，暂不不支持农历
-"love_date": "",
+"love_date": "2004-7-21",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
